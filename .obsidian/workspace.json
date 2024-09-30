@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "452f43ba5601b3f1",
+        "id": "8b7c1c2f08ef833b",
         "type": "tabs",
         "children": [
           {
-            "id": "c52ed0f5fba2ff38",
+            "id": "4c02a94012a0ec5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c52ed0f5fba2ff38",
+  "active": "4c02a94012a0ec5d",
   "lastOpenFiles": [
-    "CSBs.md",
     "index.md",
+    "Substance.md",
+    "CSBs.md",
     "NAMI.md",
     "Hospitals.md"
   ]
